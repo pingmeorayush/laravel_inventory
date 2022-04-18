@@ -1,0 +1,12 @@
+.error{
+	color:red;
+}
+
+#image_review,.image_container{
+	width: 100px;
+	height: 100px;
+}
+img{
+	height: 100%;
+	width: auto;
+}
